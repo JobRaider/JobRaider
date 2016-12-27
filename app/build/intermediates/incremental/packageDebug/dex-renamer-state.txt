@@ -1,0 +1,7 @@
+#Mon Dec 26 17:40:44 CET 2016
+base.0=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0789419b75f044b2c82db3a6dc1dfece631af79f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd29036068956db02e4c1da978b368f356394f7c/classes.dex
+base.1=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd29036068956db02e4c1da978b368f356394f7c
+file.0=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0789419b75f044b2c82db3a6dc1dfece631af79f/classes.dex
