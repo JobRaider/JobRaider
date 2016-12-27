@@ -5,51 +5,39 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7363965231197"
+    timestamp="21323008581888"
     token="7498540828873396336"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="185" />
+        duration="2628" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="33" />
+        duration="240" />
     <task
         name="verifier"
-        duration="3" />
+        duration="49" />
 
     <artifact
-        location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        location="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="6746254714560"
+        timestamp="20618803965808"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/outputs/apk/app-debug.apk"
+            location="F:\PDB\JobRaider\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="7363965231197"
+        timestamp="21323008581888"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            location="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
             type="DEX" />
     </build>
 

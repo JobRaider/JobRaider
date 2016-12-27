@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ControlJob_Alpha.iml" filepath="$PROJECT_DIR$/ControlJob_Alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JobRaider.iml" filepath="$PROJECT_DIR$/JobRaider.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

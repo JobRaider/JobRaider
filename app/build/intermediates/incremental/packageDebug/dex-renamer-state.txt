@@ -1,7 +1,7 @@
-#Mon Dec 26 17:40:44 CET 2016
-base.0=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0789419b75f044b2c82db3a6dc1dfece631af79f
+#Tue Dec 27 18:35:25 CET 2016
+base.0=F\:\\PDB\\JobRaider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6d83f490f99701beaadd3c449170f32ed45de093
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd29036068956db02e4c1da978b368f356394f7c/classes.dex
-base.1=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd29036068956db02e4c1da978b368f356394f7c
-file.0=/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0789419b75f044b2c82db3a6dc1dfece631af79f/classes.dex
+file.1=F\:\\PDB\\JobRaider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f8ee380f80da72ffacfeac6645c67771bcadba41\\classes.dex
+base.1=F\:\\PDB\\JobRaider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f8ee380f80da72ffacfeac6645c67771bcadba41
+file.0=F\:\\PDB\\JobRaider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6d83f490f99701beaadd3c449170f32ed45de093\\classes.dex

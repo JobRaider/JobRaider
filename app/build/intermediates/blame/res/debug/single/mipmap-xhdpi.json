@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\PDB\\JobRaider\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

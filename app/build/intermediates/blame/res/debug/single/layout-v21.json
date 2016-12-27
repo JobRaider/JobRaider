@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action.xml"
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Volumes/VIARTOLAW/ControlJob/ControlJob_Alpha/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

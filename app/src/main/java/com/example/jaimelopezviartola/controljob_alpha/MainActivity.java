@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends AppCompatActivity implements Runnable{
     TextView texto;
     NetworkInfo.State internet_movil;
     NetworkInfo.State wifi;
@@ -32,6 +32,12 @@ public class MainActivity extends AppCompatActivity{
                 getConnectionService();
             }
         });
+
+        //startThread();
+    }
+
+    public void startThread(){
+        new Thread(MainActivity.this).start();
     }
 
     private void getConnectionService(){
@@ -73,5 +79,17 @@ public class MainActivity extends AppCompatActivity{
             }
         }
         return SSID;
+    }
+
+    @Override
+    public void run() {
+        while(true) {
+            try {
+                Thread.sleep(1000);
+                getConnectionService();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
     }
 }
