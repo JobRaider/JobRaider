@@ -11,11 +11,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+
 public class MainActivity extends AppCompatActivity implements Runnable{
     TextView texto;
     NetworkInfo.State internet_movil;
     NetworkInfo.State wifi;
-    String red = "MOVISTAR_PLUS_1901";
+    String red = "MOVISTAR_CAE6";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements Runnable{
             }
         });
 
-        //startThread();
+        startThread();
     }
 
     public void startThread(){
@@ -61,9 +62,9 @@ public class MainActivity extends AppCompatActivity implements Runnable{
             //En este ejemplo mostraríamos mensaje por pantalla
             String wifiSSID = getWifiName(MainActivity.this);
             if(wifiSSID.equals(red)) {
-                texto.setText("Conectado por red wifi: " + wifiSSID);
+                texto.setText("Conectado por red wifi Correcta: " + wifiSSID);
             }else {
-                texto.setText("Conectado por WIFI");
+                texto.setText("Conectado por WIFI"+ wifiSSID);
             }
         }
     }

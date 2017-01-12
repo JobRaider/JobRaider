@@ -3,156 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_e2d53a35f215a5df9382f972c4a967196cd29872\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67757565404ce86c254d9091ae8c74a2b58cb61a">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d83f490f99701beaadd3c449170f32ed45de093\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_5d65d1d5528f7486954f438496f5b44fd5427a2e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_b089ed469ce89e72ffc8db3a43109c2180379832\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_3c19a389677b7233933ec7921dcbe4bb43db865f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_eea85dc6f27278931d7f12ebf10dc29e79aa0154\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_2e7545695201964e61383465467cf3b60232bf3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f0b845389971277b21ab8d7339e73f7c7fc109cd\classes.dex" />
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b0e03662d69e810ccdc7f6b759357728f42ad506\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8e6ed4046c0ef863d35f9dffda29bf612f4c450a">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f8ee380f80da72ffacfeac6645c67771bcadba41\classes.dex" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_72ea606112926a37808d6464094f47b441aee5ac\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_329b4bc040114cac28b2fd66ce8a77e4cc15aa7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\jaime\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_337d0a241a3f998815e56fcc17322494b40c7584\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_dd3774c75e211ec2e200d38d719f83d1da41714a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_bc46afe5e4a4f29364d8c3b4007804ce6cc048e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_2d56864933d68e2d1665e2bc1264b9116ce1d68a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0c68f88ae58a3d94f60c90f9be2b4339bdd4163d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_62d341d30b1cc5863e66e736a515f20b0fd7214a\classes.dex" />
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fa05bbc3a6bac89a552556e2e6faa16098a36305\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\PDB\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_81419d257be01b967dc8353c7c2539ecc721cbd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_88f00736d705d32aaaef3bc21365b521413d4a81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_bf508001bfe8ed17293446936d5e107ecd148e8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0df995eaa2bdde25e3be0d505d656d122134c6b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d061ea90aad836f5f2c83b93e79de712e43557f8">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_612546d3d788cf1d47f2fea42a43fe99c4b9a237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6814b25665eac34198be72a1ed9c82245a5307db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_1a23b3da1c19d49a336bd583fbbd194796966d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f9aa4e79a994e620838b0f6198b85cc1b6922c67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f8b252c8bae9dcb120534438e5f3770683280b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad3ff63bde0eee3fb68dd426d8348cfb75dc7b29">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cd28714c70aced1933a2a4e3418aefeac0168e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="F:\PDB\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_be7e27bc9c0502040a00b4d0776bde1d00cd9e9d\classes.dex" />
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_c8fcd5604e5586a20adf2a20fe8e19e8369f0aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_4f90e0b7106502f2355b7e0621d729b553e2c0c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_5dc84011ce0ca97e616d3928f487db12354392ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\edu\Desktop\JaimeWifi\JobRaider\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_c4269f06bcedae83706feecf4848eeaf6512d28e\classes.dex" />
     </item>
 
 </items>

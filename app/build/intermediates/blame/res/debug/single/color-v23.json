@@ -1,5 +1,57 @@
 [
     {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
         "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
@@ -8,56 +60,64 @@
         "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
         "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
@@ -68,7 +128,19 @@
         "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v23\\abc_tint_spinner.xml"
     }
 ]

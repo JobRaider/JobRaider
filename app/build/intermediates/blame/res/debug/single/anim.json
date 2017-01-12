@@ -1,63 +1,59 @@
 [
     {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
@@ -68,8 +64,12 @@
         "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_enter.xml"
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
@@ -78,5 +78,85 @@
     {
         "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\anim\\abc_fade_out.xml"
     }
 ]

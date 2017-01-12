@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\edu\\Desktop\\Proyectos JobRaider\\JaimeWifi\\JobRaider\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "F:\\Volumes\\VIARTOLAW\\ControlJob\\ControlJob_Alpha\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\conchi\\git\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\conchi\\git\\JobRaider\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "F:\\PDB\\JobRaider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
